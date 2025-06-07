@@ -10,3 +10,28 @@ Throughout this project, you'll learn:
 - Build reusable components
 - Fetch and display data from APIs
 - Set up basic routing and layout components
+
+## Project Setup
+
+This project (`alx-project-2`) demonstrates the initial setup of a Next.js app using:
+
+- ✅ TypeScript
+- ✅ Tailwind CSS
+- ✅ ESLint
+
+### Folder Structure
+
+alx-project-2/
+├── components/layout/Header.tsx
+├── interfaces/
+├── public/assets/images/
+├── pages/index.tsx
+
+To run the app:
+
+```bash
+cd alx-project-2
+npm run dev 
+```
+
+Visit: http://localhost:3000
